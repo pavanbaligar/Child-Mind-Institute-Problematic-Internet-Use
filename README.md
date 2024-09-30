@@ -3,6 +3,7 @@ Overview
 This project aims to predict the level of problematic internet use (PIU) among children and adolescents using physical activity and fitness data. The competition challenges participants to develop models capable of detecting early indicators of PIU to help trigger timely interventions promoting healthier digital habits.
 
 Host: Child Mind Institute
+
 Goal: Develop a predictive model to identify early signs of problematic internet use from children’s physical and fitness data.
 Evaluation Metric: Quadratic Weighted Kappa (κ)
 Dataset
