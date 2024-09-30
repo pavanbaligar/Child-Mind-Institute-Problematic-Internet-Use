@@ -10,5 +10,7 @@ Dataset
 The dataset is provided by the Child Mind Institute and includes demographic, health, and physical fitness data of children and adolescents.
 
 Train Set: Contains labeled instances of PIU with features such as demographic information, fitness metrics, and health measures.
+
 Test Set: Unlabeled data for which predictions of PIU need to be made.
+
 Target Variable: sii (Level of problematic internet use)
